@@ -1,7 +1,4 @@
-﻿using System;
-using TimeTracker.Shared.Entities;
-
-namespace TimeTracker.API.Repositories.TimeEntryRepository;
+﻿namespace TimeTracker.API.Repositories.TimeEntryRepository;
 
 public class TimeEntryRepository : ITimeEntryRepository
 {

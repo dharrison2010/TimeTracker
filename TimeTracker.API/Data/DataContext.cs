@@ -1,7 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using TimeTracker.Shared.Entities;
-
-namespace TimeTracker.API.Data;
+﻿namespace TimeTracker.API.Data;
 
 public class DataContext : DbContext
 {
