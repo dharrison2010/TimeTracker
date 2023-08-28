@@ -31,11 +31,13 @@
     <None Remove="Repositories\" />
     <None Remove="Repositories\TimeEntryRepository\" />
     <None Remove="Services\" />
+    <None Remove="Data\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="Repositories\" />
     <Folder Include="Repositories\TimeEntryRepository\" />
     <Folder Include="Services\" />
+    <Folder Include="Data\" />
   </ItemGroup>
 </Project>
