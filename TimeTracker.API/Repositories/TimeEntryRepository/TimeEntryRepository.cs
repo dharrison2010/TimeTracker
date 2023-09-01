@@ -6,16 +6,6 @@ public class TimeEntryRepository : ITimeEntryRepository
 
     public TimeEntryRepository(DataContext context) => _context = context;
 
-    private static readonly List<TimeEntry> _timeEntries = new()
-    {
-        new TimeEntry
-        {
-            Id = 1,
-            Project = "Time Tracker App",
-            End = DateTime.Now.AddHours(1)
-        }
-    };
-
     public async Task<List<TimeEntry>> CreateTimeEntry(TimeEntry timeEntry)
     {
         _context.TimeEntries.Add(timeEntry);
