@@ -10,10 +10,12 @@
     <None Remove="Entities\" />
     <None Remove="Models\" />
     <None Remove="Models\TimeEntry\" />
+    <None Remove="Models\Project\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Entities\" />
     <Folder Include="Models\" />
     <Folder Include="Models\TimeEntry\" />
+    <Folder Include="Models\Project\" />
   </ItemGroup>
 </Project>
