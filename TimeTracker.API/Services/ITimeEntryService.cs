@@ -8,4 +8,3 @@ public interface ITimeEntryService
     Task<List<TimeEntryResponse>?> UpdateTimeEntry(int id, TimeEntryUpdateRequest timeEntry);
     Task<List<TimeEntryResponse>?> DeleteTimeEntry(int id);
 }
-

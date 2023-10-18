@@ -1,5 +1,6 @@
 ﻿
 using Mapster;
+using TimeTracker.API.Repositories.ProjectRepository;
 using TimeTracker.Shared.Models.Project;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,6 +16,8 @@ builder.Services.AddDbContext<DataContext>(options =>
 );
 builder.Services.AddScoped<ITimeEntryRepository, TimeEntryRepository>();
 builder.Services.AddScoped<ITimeEntryService, TimeEntryService>();
+builder.Services.AddScoped<IProjectRepository, ProjectRepository>();
+builder.Services.AddScoped<IProjectService, ProjectService>();
 
 var app = builder.Build();
 
@@ -35,7 +38,7 @@ app.MapControllers();
 
 app.Run();
 
-void ConfigureMapster()
+static void ConfigureMapster()
 {
     TypeAdapterConfig<Project, ProjectResponse>.NewConfig()
         .Map(des => des.Description, src => src.ProjectDetails != null ? src.ProjectDetails.Description : null)

@@ -32,6 +32,7 @@
     <None Remove="Repositories\TimeEntryRepository\" />
     <None Remove="Services\" />
     <None Remove="Data\" />
+    <None Remove="Repositories\ProjectRepository\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
@@ -39,5 +40,6 @@
     <Folder Include="Repositories\TimeEntryRepository\" />
     <Folder Include="Services\" />
     <Folder Include="Data\" />
+    <Folder Include="Repositories\ProjectRepository\" />
   </ItemGroup>
 </Project>

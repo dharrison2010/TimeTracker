@@ -59,4 +59,3 @@ public class TimeEntryRepository : ITimeEntryRepository
         return await GetAllTimeEntries();
     }
 }
-
