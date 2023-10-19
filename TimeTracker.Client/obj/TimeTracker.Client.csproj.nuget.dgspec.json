@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/TimeTracker.Client.csproj": {}
+  },
+  "projects": {
+    "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/TimeTracker.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/TimeTracker.Client.csproj",
+        "projectName": "TimeTracker.Client",
+        "projectPath": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/TimeTracker.Client.csproj",
+        "packagesPath": "/Users/darrenharrison/.nuget/packages/",
+        "outputPath": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/darrenharrison/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Shared/TimeTracker.Shared.csproj": {
+                "projectPath": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Shared/TimeTracker.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Shared/TimeTracker.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Shared/TimeTracker.Shared.csproj",
+        "projectName": "TimeTracker.Shared",
+        "projectPath": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Shared/TimeTracker.Shared.csproj",
+        "packagesPath": "/Users/darrenharrison/.nuget/packages/",
+        "outputPath": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/darrenharrison/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

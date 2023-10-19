@@ -1,0 +1,51 @@
+﻿@page "/timeentries"
+@inject HttpClient Http
+
+<PageTitle>Time Entries</PageTitle>
+<h3>Time Entries</h3>
+
+<table>
+    <thead>
+        <tr>
+            <th>Start</th>
+            <th>End</th>
+            <th>Duration</th>
+            <th>Project</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var entry in timeEntries)
+        {
+            <tr>
+                <td>@entry.Start</td>
+                <td>@entry.End</td>
+                <td>@GetDuration(entry.Start, entry.End)</td>
+                <td>@entry.Project.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    private List<TimeEntryResponse> timeEntries = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        var result = await Http.GetFromJsonAsync<List<TimeEntryResponse>>("api/timeentry");
+        if (result is not null)
+        {
+            timeEntries = result;
+        }
+    }
+
+    private string GetDuration(DateTime? start, DateTime? end)
+    {
+        if (start != null && end != null)
+        {
+            var duration = end.Value - start.Value;
+            var result = $"{duration.Hours}h {duration.Minutes}m";
+            return result;
+        }
+        return string.Empty;
+    }
+}
