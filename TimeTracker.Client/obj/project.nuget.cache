@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "esz6679QY4dpAeGRbWuvEdQtnAorzMLGYaSf+BL5bxyOagJ58N7ZUX0uN9A3DhGNmqRHOV/FIgbRpFtL+MNUPw==",
+  "dgSpecHash": "UVFSBSxC9TRi3PnI/5N2VcKbvhS8WzFBIXIH9942kSG3wXe8JIN9yJ+KbKNJF+z4pkLKoUJ5OZ7F50jGhVSDSw==",
   "success": true,
   "projectFilePath": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/TimeTracker.Client.csproj",
   "expectedPackageFiles": [
@@ -30,7 +30,8 @@
     "/Users/darrenharrison/.nuget/packages/microsoft.jsinterop.webassembly/7.0.12/microsoft.jsinterop.webassembly.7.0.12.nupkg.sha512",
     "/Users/darrenharrison/.nuget/packages/system.io.pipelines/7.0.0/system.io.pipelines.7.0.0.nupkg.sha512",
     "/Users/darrenharrison/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
-    "/Users/darrenharrison/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
+    "/Users/darrenharrison/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
+    "/Users/darrenharrison/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/7.0.13/microsoft.netcore.app.runtime.mono.browser-wasm.7.0.13.nupkg.sha512"
   ],
   "logs": []
 }

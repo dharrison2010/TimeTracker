@@ -20,20 +20,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+[/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/Pages/EditTimeEntry.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRWRpdFRpbWVFbnRyeS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+[/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/Shared/ProjectDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1Byb2plY3REZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/Shared/ProjectSelector.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1Byb2plY3RTZWxlY3Rvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/_Imports.razor]

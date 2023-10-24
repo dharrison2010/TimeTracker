@@ -1,0 +1,76 @@
+﻿@page "/timeentry"
+@page "/timeentry/{id:int}"
+@inject ITimeEntryService TimeEntryService
+@inject IProjectService ProjectService
+
+<PageTitle>Time Entry</PageTitle>
+
+@if (Id is null)
+{
+    <h3>Create Time Entry</h3>
+}
+else
+{
+    <h3>Edit Time Entry</h3>
+}
+
+<EditForm Model="timeEntry" OnSubmit="HandleSubmit">
+    <div class="col-md-6">
+        <label for="startDate">Start</label>
+        <InputDate class="form-control"
+                   id="startDate"
+                   Type="InputDateType.DateTimeLocal"
+                   @bind-Value="timeEntry.Start" />
+    </div>
+    <div class="col-md-6">
+        <label for="endDate">End</label>
+        <InputDate class="form-control"
+                   id="endDate"
+                   Type="InputDateType.DateTimeLocal"
+                   @bind-Value="timeEntry.End" />
+    </div>
+    <div class="col-md-6">
+        <label for="project">Project</label>
+        <InputSelect id="project" @bind-Value="timeEntry.ProjectId" class="form-control">
+            @foreach (var project in ProjectService.Projects)
+            {
+                <option value="@project.Id">@project.Name</option>
+            }
+        </InputSelect>
+    </div>
+    <button type="submit" class="btn btn-primary mt-4">Submit</button>
+</EditForm>
+
+@code {
+    [Parameter]
+    public int? Id { get; set; }
+
+    TimeEntryRequest timeEntry = new();
+
+    protected override async Task OnParametersSetAsync()
+    {
+        if (Id is not null)
+        {
+            var result = await TimeEntryService.GetTimeEntryById((int)Id);
+            timeEntry = new()
+            {
+                End = result.End,
+                Start = result.Start,
+                ProjectId = result.Project.Id
+            };
+        }
+    }
+
+    async Task HandleSubmit()
+    {
+        if (Id is null)
+        {
+
+            Console.WriteLine("Create a new time entry");
+        }
+        else
+        {
+            Console.WriteLine($"Edit time entry with id {Id}");
+        }
+    }
+}

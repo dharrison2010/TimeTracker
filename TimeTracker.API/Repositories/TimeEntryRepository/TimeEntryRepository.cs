@@ -34,6 +34,14 @@ public class TimeEntryRepository : ITimeEntryRepository
         .ThenInclude(p => p!.ProjectDetails)
         .ToListAsync();
 
+    public async Task<List<TimeEntry>> GetTimeEntriesByProject(int projectId)
+    {
+        return await _context.TimeEntries
+            .Where(te => te.ProjectId == projectId)
+            .Include(p => p.Project)
+            .ToListAsync();
+    }
+
     public async Task<TimeEntry?> GetTimeEntryById(int id) =>
         await _context.TimeEntries
         .Include(te => te.Project)
