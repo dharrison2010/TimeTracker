@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zBJQPEivLOrZQrwS7GpyrRRcTEzbnDbezjazmXJ8uFg=",
+  "Hash": "9HGN4+SWx8Fg4AcRiCtYoCoCyLMtvPisNe8fiW1td4o=",
   "Source": "TimeTracker.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -48,7 +48,7 @@
       "AssetTraitValue": "boot",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.webassembly/7.0.12/build/net7.0/blazor.webassembly.js"
+      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.webassembly/7.0.13/build/net7.0/blazor.webassembly.js"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/dotnet.7.0.13.jq5bq81pr0.js",
@@ -170,6 +170,40 @@
       "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/icudt.dat"
     },
     {
+      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Mapster.Core.dll",
+      "SourceId": "TimeTracker.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Mapster.Core.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/mapster.core/1.2.1/lib/net7.0/Mapster.Core.dll"
+    },
+    {
+      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Mapster.dll",
+      "SourceId": "TimeTracker.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Mapster.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/mapster/7.4.0/lib/net7.0/Mapster.dll"
+    },
+    {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll",
       "SourceId": "TimeTracker.Client",
       "SourceType": "Computed",
@@ -184,7 +218,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.authorization/7.0.12/lib/net7.0/Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.authorization/7.0.13/lib/net7.0/Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll",
@@ -201,7 +235,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components/7.0.12/lib/net7.0/Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components/7.0.13/lib/net7.0/Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll",
@@ -218,7 +252,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.forms/7.0.12/lib/net7.0/Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.forms/7.0.13/lib/net7.0/Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll",
@@ -235,7 +269,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.web/7.0.12/lib/net7.0/Microsoft.AspNetCore.Components.Web.dll"
+      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.web/7.0.13/lib/net7.0/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll",
@@ -252,7 +286,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.webassembly/7.0.12/lib/net7.0/Microsoft.AspNetCore.Components.WebAssembly.dll"
+      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.webassembly/7.0.13/lib/net7.0/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll",
@@ -269,7 +303,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.metadata/7.0.12/lib/net7.0/Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.metadata/7.0.13/lib/net7.0/Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.CSharp.dll",
@@ -541,7 +575,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.jsinterop/7.0.12/lib/net7.0/Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.jsinterop/7.0.13/lib/net7.0/Microsoft.JSInterop.dll"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll",
@@ -558,7 +592,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.jsinterop.webassembly/7.0.12/lib/net7.0/Microsoft.JSInterop.WebAssembly.dll"
+      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.jsinterop.webassembly/7.0.13/lib/net7.0/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.VisualBasic.Core.dll",
@@ -3502,6 +3536,23 @@
       "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/dotnet.timezones.blat"
     },
     {
+      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/+5JTrWdR.gz",
+      "SourceId": "TimeTracker.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll"
+    },
+    {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/+hT+hKr6.gz",
       "SourceId": "TimeTracker.Client",
       "SourceType": "Computed",
@@ -3621,6 +3672,23 @@
       "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/System.Net.WebClient.dll"
     },
     {
+      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/1dzUeB2l.gz",
+      "SourceId": "TimeTracker.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll"
+    },
+    {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/1kBoxxRS.gz",
       "SourceId": "TimeTracker.Client",
       "SourceType": "Computed",
@@ -3636,6 +3704,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/System.Reflection.Emit.dll"
+    },
+    {
+      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/1n61yd+2.gz",
+      "SourceId": "TimeTracker.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/1SJnHq6e.gz",
@@ -3755,6 +3840,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/System.AppContext.dll"
+    },
+    {
+      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/3CKVPVWx.gz",
+      "SourceId": "TimeTracker.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/blazor.webassembly.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/45Lyvn2K.gz",
@@ -4046,23 +4148,6 @@
       "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/System.Runtime.Serialization.Primitives.dll"
     },
     {
-      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/8pH9BHes.gz",
-      "SourceId": "TimeTracker.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll"
-    },
-    {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/8ttO8lYJ.gz",
       "SourceId": "TimeTracker.Client",
       "SourceType": "Computed",
@@ -4114,23 +4199,6 @@
       "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/System.Security.SecureString.dll"
     },
     {
-      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/99W5eMJ+.gz",
-      "SourceId": "TimeTracker.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll"
-    },
-    {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/9rhrB3Uy.gz",
       "SourceId": "TimeTracker.Client",
       "SourceType": "Computed",
@@ -4146,6 +4214,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/System.ComponentModel.Primitives.dll"
+    },
+    {
+      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/9tL+zitN.gz",
+      "SourceId": "TimeTracker.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/A76qPdDd.gz",
@@ -4182,21 +4267,21 @@
       "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/System.Linq.Parallel.dll"
     },
     {
-      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/aLBHKGsj.gz",
+      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/aNMI5NEP.gz",
       "SourceId": "TimeTracker.Client",
       "SourceType": "Computed",
       "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.dll.gz",
+      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll",
+      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll"
+      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.dll"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/ap1vZcmz.gz",
@@ -4386,40 +4471,6 @@
       "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/TimeTracker.Client.pdb"
     },
     {
-      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/c8um0Dgk.gz",
-      "SourceId": "TimeTracker.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll"
-    },
-    {
-      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/CafCoDBY.gz",
-      "SourceId": "TimeTracker.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll"
-    },
-    {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/cg12EKNV.gz",
       "SourceId": "TimeTracker.Client",
       "SourceType": "Computed",
@@ -4590,23 +4641,6 @@
       "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/System.IO.FileSystem.dll"
     },
     {
-      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/DU13maJg.gz",
-      "SourceId": "TimeTracker.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/blazor.webassembly.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js"
-    },
-    {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/eAtoRgf8.gz",
       "SourceId": "TimeTracker.Client",
       "SourceType": "Computed",
@@ -4741,6 +4775,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Binder.dll"
+    },
+    {
+      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/FENxKUGi.gz",
+      "SourceId": "TimeTracker.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/FgfW76Xg.gz",
@@ -4964,23 +5015,6 @@
       "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.VisualBasic.Core.dll"
     },
     {
-      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/H5AjTfie.gz",
-      "SourceId": "TimeTracker.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll"
-    },
-    {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/h6QsXT9k.gz",
       "SourceId": "TimeTracker.Client",
       "SourceType": "Computed",
@@ -5132,6 +5166,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/System.Net.Ping.dll"
+    },
+    {
+      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/IwbyZeHh.gz",
+      "SourceId": "TimeTracker.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/IY5GHODG.gz",
@@ -5387,6 +5438,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Win32.Primitives.dll"
+    },
+    {
+      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/l3CKzCtO.gz",
+      "SourceId": "TimeTracker.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Mapster.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Mapster.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Mapster.dll"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/LCCvxJyc.gz",
@@ -5661,6 +5729,23 @@
       "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/System.Collections.Specialized.dll"
     },
     {
+      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/o+C6ol7P.gz",
+      "SourceId": "TimeTracker.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll"
+    },
+    {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/o1+EMwpx.gz",
       "SourceId": "TimeTracker.Client",
       "SourceType": "Computed",
@@ -5814,23 +5899,6 @@
       "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/System.Reflection.Extensions.dll"
     },
     {
-      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/P9HhgkxM.gz",
-      "SourceId": "TimeTracker.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.dll"
-    },
-    {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/PHUXkfTz.gz",
       "SourceId": "TimeTracker.Client",
       "SourceType": "Computed",
@@ -5965,6 +6033,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/System.Threading.Timer.dll"
+    },
+    {
+      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/q2N+sxgG.gz",
+      "SourceId": "TimeTracker.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Mapster.Core.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Mapster.Core.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Mapster.Core.dll"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/qntVeLTv.gz",
@@ -6815,23 +6900,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/System.Runtime.dll"
-    },
-    {
-      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/zci9HVZR.gz",
-      "SourceId": "TimeTracker.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/zE6N27aI.gz",
