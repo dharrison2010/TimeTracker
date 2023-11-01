@@ -80,6 +80,28 @@
           }
         }
       },
+      "Microsoft.AspNetCore.Components.QuickGrid/0.1.0-alpha.22351.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.AspNetCore.Components.QuickGrid.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Components.QuickGrid.dll": {
+            "related": ".pdb"
+          }
+        },
+        "build": {
+          "buildTransitive/Microsoft.AspNetCore.Components.QuickGrid.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Microsoft.AspNetCore.Components.QuickGrid.props": {}
+        }
+      },
       "Microsoft.AspNetCore.Components.Web/7.0.13": {
         "type": "package",
         "dependencies": {
@@ -585,6 +607,28 @@
           "lib/net7.0/Microsoft.AspNetCore.Components.Forms.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "Microsoft.AspNetCore.Components.QuickGrid/0.1.0-alpha.22351.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.AspNetCore.Components.QuickGrid.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Components.QuickGrid.dll": {
+            "related": ".pdb"
+          }
+        },
+        "build": {
+          "buildTransitive/Microsoft.AspNetCore.Components.QuickGrid.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Microsoft.AspNetCore.Components.QuickGrid.props": {}
         }
       },
       "Microsoft.AspNetCore.Components.Web/7.0.13": {
@@ -1102,6 +1146,26 @@
         "lib/net7.0/Microsoft.AspNetCore.Components.Forms.xml",
         "microsoft.aspnetcore.components.forms.7.0.13.nupkg.sha512",
         "microsoft.aspnetcore.components.forms.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Components.QuickGrid/0.1.0-alpha.22351.1": {
+      "sha512": "89f6HW22oWkD6Dm8CdQHEz0UPC/V6wwVeubU2uMFdHo1MgRrCT13G2VR5Di2JhBzjLqUQVrycgJib8/58h9tbA==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.components.quickgrid/0.1.0-alpha.22351.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "build/Microsoft.AspNetCore.Components.QuickGrid.props",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "buildMultiTargeting/Microsoft.AspNetCore.Components.QuickGrid.props",
+        "buildTransitive/Microsoft.AspNetCore.Components.QuickGrid.props",
+        "lib/net6.0/Microsoft.AspNetCore.Components.QuickGrid.dll",
+        "lib/net6.0/Microsoft.AspNetCore.Components.QuickGrid.pdb",
+        "microsoft.aspnetcore.components.quickgrid.0.1.0-alpha.22351.1.nupkg.sha512",
+        "microsoft.aspnetcore.components.quickgrid.nuspec",
+        "staticwebassets/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+        "staticwebassets/QuickGrid.razor.js"
       ]
     },
     "Microsoft.AspNetCore.Components.Web/7.0.13": {
@@ -1892,6 +1956,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Mapster >= 7.4.0",
+      "Microsoft.AspNetCore.Components.QuickGrid >= 0.1.0-alpha.22351.1",
       "Microsoft.AspNetCore.Components.WebAssembly >= 7.0.13",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 7.0.13",
       "TimeTracker.Shared >= 1.0.0"
@@ -1942,6 +2007,10 @@
           "Mapster": {
             "target": "Package",
             "version": "[7.4.0, )"
+          },
+          "Microsoft.AspNetCore.Components.QuickGrid": {
+            "target": "Package",
+            "version": "[0.1.0-alpha.22351.1, )"
           },
           "Microsoft.AspNetCore.Components.WebAssembly": {
             "target": "Package",

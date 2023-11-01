@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RAdxMaCmiYvm6h8qc+fa2ZgyEeTeENAvCruE2hxine9AxR8yV56CXyEgArMs9tdkWJTQ9YYgKXcDwtB8EnjZMQ==",
+  "dgSpecHash": "iiGDjmSK4cBPLpdO/yFMfE9P0SS4drmgLe7Ei8kHe7srvy7RJ6+RMjav4wMc3jB3feDgQvKQPklvwIsH9s9IvQ==",
   "success": true,
   "projectFilePath": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/TimeTracker.Client.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components/7.0.13/microsoft.aspnetcore.components.7.0.13.nupkg.sha512",
     "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.analyzers/7.0.13/microsoft.aspnetcore.components.analyzers.7.0.13.nupkg.sha512",
     "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.forms/7.0.13/microsoft.aspnetcore.components.forms.7.0.13.nupkg.sha512",
+    "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.quickgrid/0.1.0-alpha.22351.1/microsoft.aspnetcore.components.quickgrid.0.1.0-alpha.22351.1.nupkg.sha512",
     "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.web/7.0.13/microsoft.aspnetcore.components.web.7.0.13.nupkg.sha512",
     "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.webassembly/7.0.13/microsoft.aspnetcore.components.webassembly.7.0.13.nupkg.sha512",
     "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.webassembly.devserver/7.0.13/microsoft.aspnetcore.components.webassembly.devserver.7.0.13.nupkg.sha512",

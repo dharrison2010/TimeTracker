@@ -12,6 +12,7 @@
       "Microsoft.AspNetCore.Authorization.dll": "sha256-rtkwhICTsYE9Dtvit4qmKukHxhcBii8IGbm5icnCWbM=",
       "Microsoft.AspNetCore.Components.dll": "sha256-Qv8HUc4bc7hrinChcgqA5WvNTVXrGrA7KqK+y9K08KM=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-OBwQa9gr6aP+n\/xh7tnGjONUh7W1qym12VKXdPnpyUI=",
+      "Microsoft.AspNetCore.Components.QuickGrid.dll": "sha256-PW\/wHFaTp8vYiuguHaQ3AwRZufEAL3poOUlA2LvA0BA=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-Gx0g1syHcH5YyRh+rs88++NwatlG0Ou51bQM\/+Frqj8=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-RIHL\/6PwsBDL0lyHHDfhPIxQbGmaVrZmZtBW08GfqHQ=",
       "Microsoft.AspNetCore.Metadata.dll": "sha256-icfbQAYjnoXHBPRVr2IaSDv+w204xZlmwpb37PW5028=",
@@ -201,14 +202,14 @@
       "netstandard.dll": "sha256-+zXQN9625IUa11YLU5hNoQ04oHjCwFIJAXc8vOEMniU=",
       "System.Private.CoreLib.dll": "sha256-oytzvvuRkpVGZxuLwt9SR8n1KJzGeYroKTHxk0oZvfI=",
       "TimeTracker.Shared.dll": "sha256-eGOMu+Ck2q4NWe13n0Dz8abq+Ic+gUSmhG7\/l1i6Fnw=",
-      "TimeTracker.Client.dll": "sha256-7YtxXAC+DtcYIdAqY1iyGo\/6s\/anbuRaPQuNEq2CgKg="
+      "TimeTracker.Client.dll": "sha256-hi3rKoDDaQ2XjUtjBi3eK91uqwN\/AIKYnoyZuG4F5eM="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "TimeTracker.Shared.pdb": "sha256-H46xkm35PzJBcJn5h3vgPSLtu+REnRxfkmAtUu0lvFA=",
-      "TimeTracker.Client.pdb": "sha256-8wOBdPjvM5LSlZ2\/Vw8PfSu\/tHIK0rAtClsEmXwBel8="
+      "TimeTracker.Client.pdb": "sha256-aH0U20TI1RgnSSkEijQ\/aRJ7d45uMFX6F386kmMv20I="
     },
     "runtime": {
       "dotnet.7.0.13.jq5bq81pr0.js": "sha256-eRbsSkKiWKWKcMiqy13LuLSBIpzmn52qw\/6SX+1jNQ0=",

@@ -1,3 +1,5 @@
+@import '_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css';
+
 /* /Pages/TimeEntries.razor.rz.scp.css */
 table[b-ktbm9l661n], th[b-ktbm9l661n], td[b-ktbm9l661n] {
     border: 1px solid;

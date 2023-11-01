@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9HGN4+SWx8Fg4AcRiCtYoCoCyLMtvPisNe8fiW1td4o=",
+  "Hash": "z0/ZLwDpa71qM0BzViouloa52EWeFlJYVMIovX6kt0w=",
   "Source": "TimeTracker.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,40 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.quickgrid/0.1.0-alpha.22351.1/staticwebassets/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
+      "SourceType": "Package",
+      "ContentRoot": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.quickgrid/0.1.0-alpha.22351.1/staticwebassets/",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
+      "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.quickgrid/0.1.0-alpha.22351.1/staticwebassets/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.quickgrid/0.1.0-alpha.22351.1/staticwebassets/QuickGrid.razor.js",
+      "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
+      "SourceType": "Package",
+      "ContentRoot": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.quickgrid/0.1.0-alpha.22351.1/staticwebassets/",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
+      "RelativePath": "QuickGrid.razor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.quickgrid/0.1.0-alpha.22351.1/staticwebassets/QuickGrid.razor.js"
+    },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/blazor.boot.json",
       "SourceId": "TimeTracker.Client",
@@ -253,6 +287,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.forms/7.0.13/lib/net7.0/Microsoft.AspNetCore.Components.Forms.dll"
+    },
+    {
+      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.QuickGrid.dll",
+      "SourceId": "TimeTracker.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.QuickGrid.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/darrenharrison/.nuget/packages/microsoft.aspnetcore.components.quickgrid/0.1.0-alpha.22351.1/lib/net6.0/Microsoft.AspNetCore.Components.QuickGrid.dll"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll",
@@ -4146,6 +4197,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/System.Runtime.Serialization.Primitives.dll"
+    },
+    {
+      "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/8ns+Tckq.gz",
+      "SourceId": "TimeTracker.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.QuickGrid.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.QuickGrid.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.QuickGrid.dll"
     },
     {
       "Identity": "/Users/darrenharrison/WebAcademy/TimeTracker/TimeTracker.Client/obj/Debug/net7.0/build-gz/8ttO8lYJ.gz",
